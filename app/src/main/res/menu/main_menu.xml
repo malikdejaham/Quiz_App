@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/contact_item"
+        android:title="Contact"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/aboutUs_item"
+        android:title="A propos de nous"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/donate_item"
+        android:title="Soutenir Tawhid Quiz"
+        app:showAsAction="never"/>
+</menu>
